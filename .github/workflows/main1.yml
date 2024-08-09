@@ -24,4 +24,4 @@ jobs:
 
     - name: Run script
       run: |
-        python path/to/your_script.py
+        python upload_videos.py
